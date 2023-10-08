@@ -37,7 +37,7 @@ you can follow these steps:
 
 7. if you see this
     ```bash
-    ubuntu@ip-172-31-34-8:~$ dpkg -l | grep apache2
+    ubuntu@ip00-0-0-0:~$ dpkg -l | grep apache2
     ii  apache2-data                       2.4.52-1ubuntu4.6                       all          Apache HTTP Server (common files)
 
     ```
@@ -102,7 +102,7 @@ you can follow these steps:
 
 7. if you see this
     ```bash
-    ubuntu@ip-172-31-34-8:~$ dpkg -l | grep nginx
+    ubuntu@ip-0-0-0-0:~$ dpkg -l | grep nginx
     rc  libnginx-mod-http-geoip2           1.18.0-6ubuntu14.4                      aNginx
     rc  libnginx-mod-http-image-filter     1.18.0-6ubuntu14.4                      ae for Nginx
     rc  libnginx-mod-http-xslt-filter      1.18.0-6ubuntu14.4                      aule for Nginx
